@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/assets/test">
+        <file>test_assets/example.txt</file>
+    </qresource>
+</RCC>
