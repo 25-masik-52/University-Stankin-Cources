@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Clinic><Patients><Patient id="1"><Name>John Doe</Name><Age>30</Age><MedicalHistory /></Patient></Patients><Doctors><Doctor id="101"><Name>Dr. Smith</Name><Specialization>Cardiologist</Specialization><Schedule /></Doctor></Doctors><Appointments /></Clinic>

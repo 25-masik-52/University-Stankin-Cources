@@ -1,0 +1,21 @@
+{
+    "Clinic": {
+        "Patients": [
+            {
+                "id": "1",
+                "name": "John Doe",
+                "age": 30,
+                "medical_history": []
+            }
+        ],
+        "Doctors": [
+            {
+                "id": "101",
+                "name": "Dr. Smith",
+                "specialization": "Cardiologist",
+                "schedule": {}
+            }
+        ],
+        "Appointments": []
+    }
+}
