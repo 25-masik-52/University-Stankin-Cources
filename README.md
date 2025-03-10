@@ -7,11 +7,15 @@
 ## Structure
 The structure of this repository looks like this:
 
-**one lab work = one new branch in the repository**
+**one university work (such as labs, exams, etc.) = one new branch in the repository**
 
 Also I use the following notation for branch names:
 
 **InitialsOfTheSubject_AbbreviatedNameOfTheSubject_SequenceNumber**
+
+| Initials |         Decoding        |
+|----------|-------------------------|
+|    AP    | Application programming |
 
 ## Support
 If you have any difficulties or questions about using my code, create a [discussion](https://github.com/25-masik-52/QRange/issues/new/choose) in this repository.
